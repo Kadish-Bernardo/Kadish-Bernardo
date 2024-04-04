@@ -5,7 +5,7 @@
  const fullName = "Kadish Bernardo Ribeiro da Silva";
  let languages = "English, Portuguese, Spanish, French";
  
- let skillset = "Dev, Data Analysis";
+ let skillset = "Software Engineer, Data Analysis";
  let programmingLanguages = "C, Python, Java, Swift, JavaScript";
  ...
 }
