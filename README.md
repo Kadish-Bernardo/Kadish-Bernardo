@@ -24,5 +24,5 @@
     display="flex" 
     flex-wrap="wrap"
     align-content="space-between" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Kadish-Bernardo&layout=compact&theme=ambient_gradient&langs_count=8" />
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Kadish-Bernardo&layout=compact&theme=ambient_gradient" />
 </a>
