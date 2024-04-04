@@ -10,19 +10,10 @@
  ...
 }
 ```
+
 <a href="https://github.com/Kadish-Bernardo/github-stats">
-  <img 
-    height=200 
-    display="flex" 
-    flex-wrap="wrap"
-    align-content="space-between" 
-      src="https://github-readme-stats.vercel.app/api?username=Kadish-Bernardo&theme=ambient_gradient" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Kadish-Bernardo&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/Kadish-Bernardo/github-top-langs">
-  <img 
-    height=200 
-    display="flex" 
-    flex-wrap="wrap"
-    align-content="space-between" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Kadish-Bernardo&layout=compact&theme=ambient_gradient" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Kadish-Bernardo&layout=compact&theme=ambient_gradient" />
 </a>
