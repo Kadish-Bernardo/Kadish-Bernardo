@@ -12,8 +12,8 @@
 ```
 
 <a href="https://github.com/Kadish-Bernardo/github-stats">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Kadish-Bernardo&theme=ambient_gradient" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=Kadish-Bernardo&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/Kadish-Bernardo/github-top-langs">
-  <img height="180" align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=Kadish-Bernardo&layout=compact&theme=ambient_gradient" />
+  <img height="150" align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=Kadish-Bernardo&layout=compact&theme=ambient_gradient" />
 </a>
